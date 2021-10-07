@@ -1,6 +1,6 @@
 # Python for Everybody
 
-## Chapter1
+## Chapter 01
 
 Write a program that uses a print statement to say 'hello world' as shown in 'Desired Output'.
 
@@ -8,7 +8,7 @@ Write a program that uses a print statement to say 'hello world' as shown in 'De
 print("Hello!!")
 ```
 
-## Chapter2
+## Chapter 02
 
 2.3 Write a program to prompt the user for hours and rate per hour using input to compute gross pay.
 Use 35 hours and a rate of 2.75 per hour to test the program(the pay should be 96.25).
