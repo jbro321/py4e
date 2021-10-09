@@ -150,3 +150,14 @@ print("Minimum is", smallest)
 
 ## Certification
 ![](https://images.velog.io/images/jbro321/post/036489ca-d1ef-49d8-b931-b9f96d433164/JP.jpg)
+
+## Chapter 06
+
+6.5 Write code using find() and string slicing (see section 6.10) to extract the number at the end of the line below.
+Convert the extracted value to a floating point number and print it out.
+
+```
+text = "X-DSPAM-Confidence:    0.8475"
+txt = text.find('0')
+print(float(text[txt:]))
+```
