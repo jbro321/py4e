@@ -147,3 +147,6 @@ while True:
 print("Maximum is", largest)
 print("Minimum is", smallest)
 ```
+
+## Certification
+![](https://images.velog.io/images/jbro321/post/036489ca-d1ef-49d8-b931-b9f96d433164/JP.jpg)
