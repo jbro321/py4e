@@ -314,3 +314,5 @@ lst = sorted(dic.items())
 for key, value in lst:
     print(key, value)
 ```
+
+![](https://images.velog.io/images/jbro321/post/ed73b872-0f8c-4334-bd87-b304701a885d/Coursera.jpg)
